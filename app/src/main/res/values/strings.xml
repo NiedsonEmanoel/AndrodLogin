@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="welcome">Seja bem vindo!</string>
+    <string name="subWelcome">Sinta se a vontade...</string>
+    <string name="logWelcome">Ok, vamos lá.</string>
+    <string name="log">Login</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="help">Precisa de ajuda?</string>
+    <string name="sigin">Registre-se</string>
+    <string name="dad">Precisamos de alguns dados seus.</string>
+    <string name="name">Seu nome</string>
+    <string name="senhaconf">Confirme a senha</string>
+    <string name="cads">Cadastrar-se</string>
+</resources>
